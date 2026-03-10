@@ -1,5 +1,8 @@
 # P4Runtime: Global Actions for ActionProfileActionSets
 
+Authors: @matthewtlam
+Contributors: @kheradmand, @smolkaj, @jonathan-dilorenzo
+
 ## Objective
 Support global metadata setting for ActionProfileActionSets in P4.
 
